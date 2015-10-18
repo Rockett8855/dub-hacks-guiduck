@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Stack;
 
-import co.guiduck.scope.Scope;
+import org.guiduck.scope.Scope;
 
 
 public class GUIDuckMain {
